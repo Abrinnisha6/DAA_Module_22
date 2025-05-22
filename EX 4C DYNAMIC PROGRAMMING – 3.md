@@ -1,6 +1,6 @@
 # EX 4C DYNAMIC PROGRAMMING – 3
 
-## DATE :
+## DATE :13/05/2025
 
 ## AIM :
 
